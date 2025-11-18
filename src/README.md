@@ -28,13 +28,15 @@ isAdmin: boolean ;
 পার্থক্যগুলো:
 
 1/    এখানে interface মুলত  object,  Class,  এবং method structure বর্ণনা করার জন্য ব্যবহার করা হয়। আর type সবকিছুতেই ব্যবহার করা যায়।
+
 2/   Interface কে সহজে extend করা যায়। টাইপকে ও extend করা যায় বাট টাইপের ক্ষেত্রে সীমাবদ্ধতা আছে।
+
 3/  Interface এ Union,  Tuple ব্যবহার করা যায় না।  কিন্তু টাইপে করা যায়।
 
 
 
 
-2/ W hat is the use of the keyof keyword in TypeScript? Provide an example?
+2--- What is the use of the keyof keyword in TypeScript? Provide an example?
 
 KeyOf হলো একটি keyword যা ব্যবহার করে কোনো object এর সব key proparty গুলো ইউনিয়ন টাইপ আকারে পেতে পারি। আসলে কোনো object এর property গুলোর নাম কী কী সেটা এই keyOf আমাদের বলে দেয়।
  উদাহরণ :
