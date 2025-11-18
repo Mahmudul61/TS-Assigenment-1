@@ -1,3 +1,4 @@
+
 1---What are some differences between interfaces and types in TypeScript?
 
 Interface: টাইপস্ক্রিপ্টে Interface বলতে আমরা বুঝি  একটা অবজেক্ট এর  ধরন কি রকম হবে  হবে সেটাই।  অর্থাৎ  অবজেক্ট এর ভিতরের proparty কি string হবে নাকি number হবে,  নাকি  boolean হবে এটাই। এক কথায় বলতে পারি টাইপস্ক্রিপ্টে Interface মানে অবজেক্ট এর নকশা।
