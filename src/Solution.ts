@@ -65,9 +65,6 @@ function filterByRating(Array:Item[]):Item[]{
 }
 
 
-// console.log(filterByRating(data));
-
-
 //problem ----> 5
 
 type UsersData ={
