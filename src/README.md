@@ -36,6 +36,16 @@ isAdmin: boolean ;
 
 
 
+
+
+
+
+
+
+
+
+
+
 2--- What is the use of the keyof keyword in TypeScript? Provide an example?
 
 KeyOf হলো একটি keyword যা ব্যবহার করে কোনো object এর সব key proparty গুলো ইউনিয়ন টাইপ আকারে পেতে পারি। আসলে কোনো object এর property গুলোর নাম কী কী সেটা এই keyOf আমাদের বলে দেয়।
