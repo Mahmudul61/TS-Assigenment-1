@@ -1,5 +1,4 @@
-<!----------------------- What are some differences between interfaces and types in TypeScript? ------------------------>
-
+1---What are some differences between interfaces and types in TypeScript?
 
 Interface: টাইপস্ক্রিপ্টে Interface বলতে আমরা বুঝি  একটা অবজেক্ট এর  ধরন কি রকম হবে  হবে সেটাই।  অর্থাৎ  অবজেক্ট এর ভিতরের proparty কি string হবে নাকি number হবে,  নাকি  boolean হবে এটাই। এক কথায় বলতে পারি টাইপস্ক্রিপ্টে Interface মানে অবজেক্ট এর নকশা।
 
@@ -33,9 +32,9 @@ isAdmin: boolean ;
 3/  Interface এ Union,  Tuple ব্যবহার করা যায় না।  কিন্তু টাইপে করা যায়।
 
 
-<!---------------------------W hat is the use of the keyof keyword in TypeScript? Provide an example ----------------------------->
 
 
+2/ W hat is the use of the keyof keyword in TypeScript? Provide an example?
 
 KeyOf হলো একটি keyword যা ব্যবহার করে কোনো object এর সব key proparty গুলো ইউনিয়ন টাইপ আকারে পেতে পারি। আসলে কোনো object এর property গুলোর নাম কী কী সেটা এই keyOf আমাদের বলে দেয়।
  উদাহরণ :
